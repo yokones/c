@@ -1,0 +1,16 @@
+:root{
+    --titulo-principal:#092938;
+    --cor-do-texto:#316c94; 
+    --cor-de-fundo:#69a0ccad;
+    --cor-do-botao:#290c92;
+}
+body{
+    background-color:var(--cor-de-fundo);
+}
+h1{
+    color:var(--titulo-principal);
+}
+*{
+    margin:0;
+    padding:0;
+}
