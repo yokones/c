@@ -1,7 +1,7 @@
 :root{
-    --titulo-principal:#092938;
-    --cor-do-texto:#316c94; 
-    --cor-de-fundo:#69a0ccad;
+    --titulo-principal:#b38300;
+    --cor-do-texto:#fbca03; 
+    --cor-de-fundo:#aa0505;
     --cor-do-botao:#290c92;
 }
 body{
@@ -13,4 +13,12 @@ h1{
 *{
     margin:0;
     padding:0;
+}
+.principal{
+    background-image:url(511221.jpg);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+.container{
+    height:100vh;
 }
