@@ -6,8 +6,6 @@
 }
 body{
     background-color:var(--cor-de-fundo);
-}
-h1{
     color:var(--titulo-principal);
 }
 *{
@@ -21,4 +19,17 @@ h1{
 }
 .container{
     height:100vh;
+    display:grid;
+    grid-template-columns:50% 50%;
+}
+.container_botao{
+    background:var(--botao-amrelo);
+    border-radius:10px ;
+    padding:1em;
+    color:var(--botao-principal);
+    display: block;
+}
+.botao_secundario {
+    background-color: transparent;
+    border:10px solid var(--branco-principal);
 }
