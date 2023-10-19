@@ -1,8 +1,8 @@
 :root{
-    --titulo-principal:#b38300;
-    --cor-do-texto:#fbca03; 
-    --cor-de-fundo:#aa0505;
-    --cor-do-botao:#290c92;
+    --titulo-principal:#1e4b7e;
+    --cor-do-texto:#3d2a72; 
+    --cor-de-fundo:#7fa6d8;
+    --cor-do-botao:#404186;
 }
 body{
     background-color:var(--cor-de-fundo);
@@ -13,7 +13,7 @@ body{
     padding:0;
 }
 .principal{
-    background-image:url(511221.jpg);
+    background-image:url(Peppa%27s_yellow_house.webp);
     background-repeat:no-repeat;
     background-size: contain;
 }
